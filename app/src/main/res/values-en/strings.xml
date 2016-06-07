@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyMusicApp2k16</string>
+    <string name="adicionar_novo_album">Add New Album</string>
+    <string name="albuns_existentes">Existing Albums</string>
+    <string name="alvo_da_pesquisa">Search Target</string>
+    <string name="ano_de_lan_amento">Release Year</string>
+    <string name="artista">Artist</string>
+    <string name="escolha_o_tipo_de_pesquisa">Choose the search type</string>
+    <string name="procurar">Search</string>
+    <string name="resultados_de_pesquisa">Searched Results</string>
+</resources>
